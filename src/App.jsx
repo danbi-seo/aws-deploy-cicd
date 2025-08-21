@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Develop에서 테스트중...</h1>
+      <h2>aws CI/CD 배포 환경 구축 연습중입니다.</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
